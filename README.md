@@ -51,4 +51,4 @@ npm start             # Keep running in another terminal
 TEST_BASE_URL=http://127.0.0.1:4173 npm test
 ```
 
-Acceptance tests also run under a repository subpath in CI. See [performance notes](docs/performance.md) for measurements and dependency-audit limitations. 
+Acceptance tests also run under a repository subpath in CI. See [performance notes](docs/performance.md) for measurements and dependency-audit limitations.
