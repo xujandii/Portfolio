@@ -1,0 +1,14 @@
+/* Use only the existing spacing/type scale; preserve the site's base styles. */
+@layer theme, utilities;
+@layer theme {
+  @theme prefix(tw) {
+    --spacing: 4px;
+    --text-xs: 12px;
+    --text-xs--line-height: 1.333333;
+  }
+}
+@layer utilities {
+  @tailwind utilities source(none);
+}
+@source '../components/ApproachTimeline.tsx';
+@source '../components/CapabilityIcon.tsx';

@@ -1,0 +1,95 @@
+.stack {
+  position: relative;
+  display: grid;
+  gap: 39px;
+}
+
+.slot {
+  min-width: 0;
+}
+
+.card :global(.project-card) {
+  padding-top: 0;
+}
+
+@media (min-width: 761px) and (min-height: 700px) and (prefers-reduced-motion: no-preference) {
+  .stack {
+    display: block;
+  }
+
+  .slot {
+    position: sticky;
+    --stack-step: clamp(0px, calc((100svh - var(--section-sticky-offset, 0px) - 500px) / 4), 25px);
+    --stack-lift: clamp(0px, calc((100svh - var(--section-sticky-offset, 0px) - 520px) / 2), 5svh);
+    top: var(--section-sticky-offset, 0px);
+    height: calc(100svh - var(--section-sticky-offset, 0px));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: var(--card-index);
+    pointer-events: none;
+  }
+
+  .slot:focus-within {
+    z-index: 10;
+  }
+
+  .card {
+    position: relative;
+    top: calc(-1 * var(--stack-lift) + var(--card-index) * var(--stack-step));
+    width: min(100%, 1100px);
+    background: var(--cloud);
+    border-radius: 5px;
+    transform-origin: top center;
+    pointer-events: auto;
+  }
+
+  .card :global(.project-card-link) {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    align-items: center;
+    min-height: 450px;
+    background: var(--cloud);
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    overflow: visible;
+    box-shadow: var(--elevation-card);
+  }
+
+  .card :global(.project-art) {
+    height: 450px;
+    aspect-ratio: auto;
+    border-radius: 5px 0 0 5px;
+    box-shadow: none;
+  }
+
+  .card :global(.project-info) {
+    padding: clamp(22px, 3vw, 40px);
+  }
+
+  .card :global(.project-title) {
+    margin-block: 22px 14px;
+  }
+}
+
+@media print {
+  .stack {
+    display: grid;
+  }
+
+  .slot {
+    position: static;
+    height: auto;
+  }
+
+  .card {
+    top: auto;
+    transform: none !important;
+  }
+}
+
+@media (max-width: 760px), (max-height: 699px), (prefers-reduced-motion: reduce) {
+  .card {
+    transform: none !important;
+  }
+}
