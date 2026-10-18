@@ -1,0 +1,102 @@
+[
+  {
+    "source": "lovetree-better.png",
+    "name": "overview",
+    "src": "/nature-dialogue/evidence/overview-7db3943166.webp",
+    "width": 1800,
+    "height": 1590,
+    "bytes": 141194,
+    "originalBytes": 935162,
+    "transparent": true
+  },
+  {
+    "source": "VERTICAL.png",
+    "name": "vertical-ecosystem",
+    "src": "/nature-dialogue/evidence/vertical-ecosystem-e27a1a2968.webp",
+    "width": 1106,
+    "height": 752,
+    "bytes": 73572,
+    "originalBytes": 162091,
+    "transparent": true
+  },
+  {
+    "source": "desktop-research.jpg",
+    "name": "desk-research",
+    "src": "/nature-dialogue/evidence/desk-research-97e7865586.webp",
+    "width": 2400,
+    "height": 1428,
+    "bytes": 603826,
+    "originalBytes": 6776073,
+    "transparent": false
+  },
+  {
+    "source": "affinity.jpg",
+    "name": "affinity-map",
+    "src": "/nature-dialogue/evidence/affinity-map-f8af2feef0.webp",
+    "width": 3600,
+    "height": 2408,
+    "bytes": 484014,
+    "originalBytes": 3322949,
+    "transparent": false
+  },
+  {
+    "source": "systems-map.png",
+    "name": "systems-map",
+    "src": "/nature-dialogue/evidence/systems-map-0d1b7363fa.webp",
+    "width": 3600,
+    "height": 2025,
+    "bytes": 834614,
+    "originalBytes": 5435752,
+    "transparent": true
+  },
+  {
+    "source": "mvon-inter.jpg",
+    "name": "intervention",
+    "src": "/nature-dialogue/evidence/intervention-ad6ef5d732.webp",
+    "width": 2800,
+    "height": 1575,
+    "bytes": 161066,
+    "originalBytes": 1611016,
+    "transparent": false
+  },
+  {
+    "source": "archetypes-horizontal.png",
+    "name": "archetypes",
+    "src": "/nature-dialogue/evidence/archetypes-26fc522d9f.webp",
+    "width": 3498,
+    "height": 1168,
+    "bytes": 187638,
+    "originalBytes": 1991265,
+    "transparent": true
+  },
+  {
+    "source": "final-proposal.png",
+    "name": "dialogue",
+    "src": "/nature-dialogue/evidence/dialogue-30f4716d18.webp",
+    "width": 1572,
+    "height": 1513,
+    "bytes": 52976,
+    "originalBytes": 101333,
+    "transparent": true
+  },
+  {
+    "source": "action-plan.png",
+    "name": "action-plan",
+    "src": "/nature-dialogue/evidence/action-plan-642421c330.webp",
+    "width": 1444,
+    "height": 828,
+    "bytes": 71350,
+    "originalBytes": 175719,
+    "transparent": false
+  },
+  {
+    "source": "map-sketch.JPG",
+    "name": "map-sketch",
+    "src": "/nature-dialogue/evidence/map-sketch-51434b51c3.webp",
+    "width": 1280,
+    "height": 938,
+    "bytes": 119702,
+    "originalBytes": 127956,
+    "transparent": false
+  }
+]

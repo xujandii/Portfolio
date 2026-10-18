@@ -1,0 +1,41 @@
+[
+  {
+    "audioTracks": 0,
+    "bytes": 15768847,
+    "codec": "avc1",
+    "duration": 51.675,
+    "height": 1080,
+    "poster": "/otava/walkthroughs/lessons.jpg",
+    "posterBytes": 236970,
+    "source": "lessons.mov",
+    "sourceBytes": 1872036943,
+    "src": "/otava/walkthroughs/lessons.mp4",
+    "width": 1920
+  },
+  {
+    "audioTracks": 0,
+    "bytes": 11240309,
+    "codec": "avc1",
+    "duration": 36.8,
+    "height": 1080,
+    "poster": "/otava/walkthroughs/exercises.jpg",
+    "posterBytes": 235502,
+    "source": "exercises.mov",
+    "sourceBytes": 1329231077,
+    "src": "/otava/walkthroughs/exercises.mp4",
+    "width": 1920
+  },
+  {
+    "audioTracks": 0,
+    "bytes": 2724710,
+    "codec": "avc1",
+    "duration": 8.6,
+    "height": 1080,
+    "poster": "/otava/walkthroughs/sharing.jpg",
+    "posterBytes": 230506,
+    "source": "sharing.mov",
+    "sourceBytes": 308572115,
+    "src": "/otava/walkthroughs/sharing.mp4",
+    "width": 1920
+  }
+]

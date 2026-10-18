@@ -1,0 +1,172 @@
+[
+  {
+    "source": "cs1-cjm-enhanced.png",
+    "name": "initial-journey-map-enhanced",
+    "src": "/otava/evidence/initial-journey-map-enhanced.webp",
+    "width": 1418,
+    "height": 1109,
+    "bytes": 283426,
+    "originalBytes": 1567269,
+    "hasAlpha": true
+  },
+  {
+    "source": "cs1-analysis.jpg",
+    "name": "research-synthesis",
+    "src": "/otava/evidence/research-synthesis.webp",
+    "width": 4000,
+    "height": 3170,
+    "bytes": 757480,
+    "originalBytes": 3254690,
+    "hasAlpha": false
+  },
+  {
+    "source": "cs1-pov-workshop.png",
+    "name": "concept-workshop",
+    "src": "/otava/evidence/concept-workshop.webp",
+    "width": 2000,
+    "height": 1414,
+    "bytes": 326958,
+    "originalBytes": 2452705,
+    "hasAlpha": false
+  },
+  {
+    "source": "aina-ia.png",
+    "name": "information-architecture",
+    "src": "/otava/evidence/information-architecture.webp",
+    "width": 4000,
+    "height": 3457,
+    "bytes": 1591242,
+    "originalBytes": 7107800,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-wf-1.png",
+    "name": "wireframe-start",
+    "src": "/otava/evidence/wireframe-start.webp",
+    "width": 3000,
+    "height": 1586,
+    "bytes": 159518,
+    "originalBytes": 4209487,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-wf-3.png",
+    "name": "wireframe-book-selection",
+    "src": "/otava/evidence/wireframe-book-selection.webp",
+    "width": 3000,
+    "height": 1593,
+    "bytes": 154254,
+    "originalBytes": 4221134,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-wf-5.png",
+    "name": "wireframe-preferences",
+    "src": "/otava/evidence/wireframe-preferences.webp",
+    "width": 3000,
+    "height": 1593,
+    "bytes": 162458,
+    "originalBytes": 4572808,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-wf-2.png",
+    "name": "wireframe-generated-content",
+    "src": "/otava/evidence/wireframe-generated-content.webp",
+    "width": 3000,
+    "height": 1593,
+    "bytes": 156802,
+    "originalBytes": 4408008,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-wf-4.png",
+    "name": "wireframe-sharing",
+    "src": "/otava/evidence/wireframe-sharing.webp",
+    "width": 3000,
+    "height": 1593,
+    "bytes": 160456,
+    "originalBytes": 6101860,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-wf-6.png",
+    "name": "wireframe-prompt-options",
+    "src": "/otava/evidence/wireframe-prompt-options.webp",
+    "width": 3000,
+    "height": 1593,
+    "bytes": 161540,
+    "originalBytes": 4629932,
+    "hasAlpha": true
+  },
+  {
+    "source": "Aina-dashboard-before.png",
+    "name": "aina-dashboard-before",
+    "src": "/otava/evidence/aina-dashboard-before.webp",
+    "width": 3000,
+    "height": 2049,
+    "bytes": 1038966,
+    "originalBytes": 9029343,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-dashboard-frame.png",
+    "name": "aina-dashboard-refined",
+    "src": "/otava/evidence/aina-dashboard-refined.webp",
+    "width": 3000,
+    "height": 2049,
+    "bytes": 1032460,
+    "originalBytes": 8980599,
+    "hasAlpha": true
+  },
+  {
+    "source": "aina-result.png",
+    "name": "aina-result-20261003",
+    "src": "/otava/evidence/aina-result-20261003.webp",
+    "width": 3000,
+    "height": 2065,
+    "bytes": 968614,
+    "originalBytes": 5977649,
+    "hasAlpha": true
+  },
+  {
+    "source": "menu-bar.png",
+    "name": "navigation-menu",
+    "src": "/otava/evidence/navigation-menu.webp",
+    "width": 1200,
+    "height": 2335,
+    "bytes": 390854,
+    "originalBytes": 9658920,
+    "hasAlpha": true
+  },
+  {
+    "source": "Aamu.png",
+    "name": "persona-aamu",
+    "src": "/otava/evidence/persona-aamu.webp",
+    "width": 480,
+    "height": 480,
+    "bytes": 29088,
+    "originalBytes": 110434,
+    "hasAlpha": true
+  },
+  {
+    "source": "Ilta.png",
+    "name": "persona-ilta",
+    "src": "/otava/evidence/persona-ilta.webp",
+    "width": 480,
+    "height": 480,
+    "bytes": 27258,
+    "originalBytes": 103497,
+    "hasAlpha": true
+  },
+  {
+    "source": "Kuura.png",
+    "name": "persona-kuura",
+    "src": "/otava/evidence/persona-kuura.webp",
+    "width": 480,
+    "height": 480,
+    "bytes": 30012,
+    "originalBytes": 115537,
+    "hasAlpha": true
+  }
+]

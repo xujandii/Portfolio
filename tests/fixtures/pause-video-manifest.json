@@ -1,0 +1,53 @@
+[
+  {
+    "bytes": 3903142,
+    "codec": "h264",
+    "durationSeconds": 30.6,
+    "framesPerSecond": 30,
+    "height": 984,
+    "id": "onboarding",
+    "poster": "/pause/walkthroughs/onboarding-portrait.jpg",
+    "sourceCrop": {
+      "height": 984,
+      "width": 528,
+      "x": 696,
+      "y": 48
+    },
+    "src": "/pause/walkthroughs/onboarding-portrait.mp4",
+    "width": 528
+  },
+  {
+    "bytes": 1331458,
+    "codec": "h264",
+    "durationSeconds": 10.283333333333333,
+    "framesPerSecond": 30,
+    "height": 984,
+    "id": "explore",
+    "poster": "/pause/walkthroughs/explore-portrait.jpg",
+    "sourceCrop": {
+      "height": 984,
+      "width": 528,
+      "x": 696,
+      "y": 48
+    },
+    "src": "/pause/walkthroughs/explore-portrait.mp4",
+    "width": 528
+  },
+  {
+    "bytes": 1732671,
+    "codec": "h264",
+    "durationSeconds": 14.8,
+    "framesPerSecond": 30,
+    "height": 984,
+    "id": "community",
+    "poster": "/pause/walkthroughs/community-portrait.jpg",
+    "sourceCrop": {
+      "height": 984,
+      "width": 528,
+      "x": 696,
+      "y": 48
+    },
+    "src": "/pause/walkthroughs/community-portrait.mp4",
+    "width": 528
+  }
+]

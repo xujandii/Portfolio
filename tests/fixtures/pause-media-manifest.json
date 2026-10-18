@@ -1,0 +1,92 @@
+[
+  {
+    "source": "@mock-up-thumbnail.png",
+    "name": "overview",
+    "src": "/pause/evidence/overview.webp",
+    "width": 2400,
+    "height": 1134,
+    "bytes": 609148,
+    "originalBytes": 6464565,
+    "hasAlpha": true
+  },
+  {
+    "source": "Persona 1.jpg",
+    "name": "persona-emma",
+    "src": "/pause/evidence/persona-emma.webp",
+    "width": 3000,
+    "height": 1758,
+    "bytes": 290176,
+    "originalBytes": 11298149,
+    "hasAlpha": false
+  },
+  {
+    "source": "Persona 2.jpg",
+    "name": "persona-lauri",
+    "src": "/pause/evidence/persona-lauri.webp",
+    "width": 3000,
+    "height": 1758,
+    "bytes": 298894,
+    "originalBytes": 11517490,
+    "hasAlpha": false
+  },
+  {
+    "source": "user-journey-map.jpg",
+    "name": "journey-map",
+    "src": "/pause/evidence/journey-map.webp",
+    "width": 4000,
+    "height": 1732,
+    "bytes": 405880,
+    "originalBytes": 19135775,
+    "hasAlpha": false
+  },
+  {
+    "source": "wireframes.png",
+    "name": "wireframes",
+    "src": "/pause/evidence/wireframes-transparent.webp",
+    "width": 3500,
+    "height": 2320,
+    "bytes": 261446,
+    "originalBytes": 1367505,
+    "hasAlpha": true
+  },
+  {
+    "source": "User flow.png",
+    "name": "user-flow",
+    "src": "/pause/evidence/user-flow-transparent.webp",
+    "width": 3500,
+    "height": 3450,
+    "bytes": 218088,
+    "originalBytes": 2069423,
+    "hasAlpha": true
+  },
+  {
+    "source": "typography.png",
+    "name": "typography",
+    "src": "/pause/evidence/typography-transparent.webp",
+    "width": 2400,
+    "height": 600,
+    "bytes": 67726,
+    "originalBytes": 126103,
+    "hasAlpha": true
+  },
+  {
+    "source": "color.png",
+    "name": "colors",
+    "src": "/pause/evidence/colors-transparent.webp",
+    "width": 3000,
+    "height": 806,
+    "bytes": 76904,
+    "originalBytes": 1832328,
+    "hasAlpha": true
+  },
+  {
+    "source": "pause-solution.png",
+    "name": "solution",
+    "src": "/pause/evidence/solution-240681692d.webp",
+    "width": 3000,
+    "height": 1231,
+    "bytes": 380200,
+    "originalBytes": 29026553,
+    "hasAlpha": true
+  }
+]

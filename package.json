@@ -1,0 +1,50 @@
+{
+  "name": "jandi-nguyen-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve-static.mjs",
+    "lint": "eslint .",
+    "design:lint": "designmd lint DESIGN.MD",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "assets:prepare": "node scripts/prepare-assets.mjs",
+    "predev": "npm run assets:prepare",
+    "prebuild": "npm run assets:prepare",
+    "pretypecheck": "npm run assets:prepare",
+    "test:unit": "node --test tests/unit/*.test.mjs",
+    "check": "npm run lint && npm run typecheck && npm run format:check && npm run design:lint && npm run test:unit",
+    "repo:prepare": "node scripts/prepare-repository.mjs",
+    "repo:check": "node scripts/check-repository.mjs",
+    "test:export": "node scripts/check-export.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "@fontsource-variable/dm-sans": "^5.3.0",
+    "@fontsource-variable/sora": "^5.3.0",
+    "@fontsource/instrument-serif": "^5.3.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "next": "^16.4.2",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@google/design.md": "^0.4.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.20.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.2",
+    "prettier": "^3.9.6",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  }
+}
