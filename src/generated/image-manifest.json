@@ -1,0 +1,709 @@
+{
+  "/jandi-neutral.png": {
+    "id": "534cdf922480",
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1254
+    ]
+  },
+  "/jandi-neutral.webp": {
+    "id": "abf2ba7ab3cb",
+    "width": 720,
+    "height": 720,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      720
+    ]
+  },
+  "/jandi-smile.png": {
+    "id": "08f8513f6b40",
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1254
+    ]
+  },
+  "/jandi-smile.webp": {
+    "id": "3ccbed57d4de",
+    "width": 720,
+    "height": 720,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      720
+    ]
+  },
+  "/nature-dialogue/evidence/action-plan-642421c330.webp": {
+    "id": "1f70ceec01e0",
+    "width": 1444,
+    "height": 828,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1444
+    ]
+  },
+  "/nature-dialogue/evidence/affinity-map-f8af2feef0.webp": {
+    "id": "86a1d735f182",
+    "width": 3600,
+    "height": 2408,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/nature-dialogue/evidence/archetypes-26fc522d9f.webp": {
+    "id": "82e3ea6be336",
+    "width": 3498,
+    "height": 1168,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/nature-dialogue/evidence/desk-research-97e7865586.webp": {
+    "id": "978465e9277f",
+    "width": 2400,
+    "height": 1428,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/nature-dialogue/evidence/dialogue-30f4716d18.webp": {
+    "id": "09a652d70907",
+    "width": 1572,
+    "height": 1513,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1572
+    ]
+  },
+  "/nature-dialogue/evidence/intervention-ad6ef5d732.webp": {
+    "id": "ccb4e740a427",
+    "width": 2800,
+    "height": 1575,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/nature-dialogue/evidence/map-sketch-51434b51c3.webp": {
+    "id": "325138ecc1e8",
+    "width": 1280,
+    "height": 938,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280
+    ]
+  },
+  "/nature-dialogue/evidence/overview-7db3943166.webp": {
+    "id": "492d07f17256",
+    "width": 1800,
+    "height": 1590,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/nature-dialogue/evidence/systems-map-0d1b7363fa.webp": {
+    "id": "42954dbaba37",
+    "width": 3600,
+    "height": 2025,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/nature-dialogue/evidence/vertical-ecosystem-e27a1a2968.webp": {
+    "id": "4d763b04db7c",
+    "width": 1106,
+    "height": 752,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1106
+    ]
+  },
+  "/otava-thumbnail.png": {
+    "id": "089ff0b34d89",
+    "width": 5666,
+    "height": 2968,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/aina-dashboard-before.webp": {
+    "id": "513ca6ef77bb",
+    "width": 3000,
+    "height": 2049,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/aina-dashboard-refined.webp": {
+    "id": "1b63126dfb29",
+    "width": 3000,
+    "height": 2049,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/aina-result-20261003.webp": {
+    "id": "e63e1b4b5ed4",
+    "width": 3000,
+    "height": 2065,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/concept-workshop.webp": {
+    "id": "f345e998faa4",
+    "width": 2000,
+    "height": 1414,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/information-architecture.webp": {
+    "id": "7d6e69054782",
+    "width": 4000,
+    "height": 3457,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/initial-journey-map-enhanced.webp": {
+    "id": "d81940ae3d3a",
+    "width": 1418,
+    "height": 1109,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1418
+    ]
+  },
+  "/otava/evidence/persona-aamu.webp": {
+    "id": "71a63b980ee0",
+    "width": 480,
+    "height": 480,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480
+    ]
+  },
+  "/otava/evidence/persona-ilta.webp": {
+    "id": "7cf4cb7d682a",
+    "width": 480,
+    "height": 480,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480
+    ]
+  },
+  "/otava/evidence/persona-kuura.webp": {
+    "id": "80b2b6133038",
+    "width": 480,
+    "height": 480,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480
+    ]
+  },
+  "/otava/evidence/research-synthesis.webp": {
+    "id": "895edd460861",
+    "width": 4000,
+    "height": 3170,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/wireframe-book-selection.webp": {
+    "id": "4bd5b5f5ba05",
+    "width": 3000,
+    "height": 1593,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/wireframe-generated-content.webp": {
+    "id": "01d829e96009",
+    "width": 3000,
+    "height": 1593,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/wireframe-preferences.webp": {
+    "id": "f292f48e6f7d",
+    "width": 3000,
+    "height": 1593,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/wireframe-prompt-options.webp": {
+    "id": "b907f60884c1",
+    "width": 3000,
+    "height": 1593,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/wireframe-sharing.webp": {
+    "id": "ac64587b2456",
+    "width": 3000,
+    "height": 1593,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/evidence/wireframe-start.webp": {
+    "id": "7b8be6aff70e",
+    "width": 3000,
+    "height": 1586,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/otava/walkthroughs/exercises.jpg": {
+    "id": "2a7a9c7fb0e7",
+    "width": 1440,
+    "height": 810,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1440
+    ]
+  },
+  "/otava/walkthroughs/lessons.jpg": {
+    "id": "cba9e2c95a86",
+    "width": 1440,
+    "height": 810,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1440
+    ]
+  },
+  "/otava/walkthroughs/sharing.jpg": {
+    "id": "5a2392ceb24e",
+    "width": 1440,
+    "height": 810,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1440
+    ]
+  },
+  "/pause/evidence/colors-transparent.webp": {
+    "id": "955c3de5caa5",
+    "width": 3000,
+    "height": 806,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/journey-map.webp": {
+    "id": "cf7c6c4478a4",
+    "width": 4000,
+    "height": 1732,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/overview.webp": {
+    "id": "0b86a331f35c",
+    "width": 2400,
+    "height": 1134,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/persona-emma.webp": {
+    "id": "39f242d52aac",
+    "width": 3000,
+    "height": 1758,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/persona-lauri.webp": {
+    "id": "9ee7d523047a",
+    "width": 3000,
+    "height": 1758,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/solution-240681692d.webp": {
+    "id": "6619abee9315",
+    "width": 3000,
+    "height": 1231,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/typography-transparent.webp": {
+    "id": "b9cd7864fc00",
+    "width": 2400,
+    "height": 600,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/user-flow-transparent.webp": {
+    "id": "88340ce3b5bc",
+    "width": 3500,
+    "height": 3450,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/evidence/wireframes-transparent.webp": {
+    "id": "045877c6cd0f",
+    "width": 3500,
+    "height": 2320,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      640,
+      960,
+      1280,
+      1600
+    ]
+  },
+  "/pause/walkthroughs/community-portrait.jpg": {
+    "id": "4a90b3588746",
+    "width": 528,
+    "height": 984,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      528
+    ]
+  },
+  "/pause/walkthroughs/explore-portrait.jpg": {
+    "id": "e51d90f281e6",
+    "width": 528,
+    "height": 984,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      528
+    ]
+  },
+  "/pause/walkthroughs/onboarding-portrait.jpg": {
+    "id": "2d4c85880913",
+    "width": 528,
+    "height": 984,
+    "widths": [
+      48,
+      96,
+      192,
+      320,
+      480,
+      528
+    ]
+  }
+}
