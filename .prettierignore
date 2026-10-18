@@ -1,0 +1,12 @@
+node_modules
+.next
+public
+package-lock.json
+next-env.d.ts
+out
+dist
+src/generated
+Project content
+framer
+docs
+*.tsbuildinfo

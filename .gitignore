@@ -1,0 +1,27 @@
+node_modules/
+.next/
+out/
+.DS_Store
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# Original research and confidential inputs stay local.
+/Project content/
+/framer/
+/docs/*
+!/docs/deployment.md
+!/docs/performance.md
+/jandi-neutral.png
+/jandi-smile.png
+/logo.svg
+
+# Reproducible generated output and local tooling.
+/public/_images/
+/src/generated/
+/dist/
+/.agents/
+/.codex/
+*.log

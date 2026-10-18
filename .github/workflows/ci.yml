@@ -1,0 +1,41 @@
+name: Validate portfolio
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      NEXT_PUBLIC_CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL || 'ntpthaofin.0901@gmail.com' }}
+      NEXT_PUBLIC_BASE_PATH: /portfolio-preview
+      NEXT_PUBLIC_SITE_URL: https://example.github.io/portfolio-preview
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run assets:prepare
+      - run: npm run repo:check
+      - run: npm run check
+      - run: npm run build
+      - run: npm run test:export
+      - name: Test the static website under a repository path
+        run: |
+          npm start > /tmp/portfolio-preview.log 2>&1 &
+          curl --fail --retry 20 --retry-connrefused --retry-delay 1 http://127.0.0.1:4173/portfolio-preview/
+          TEST_BASE_URL=http://127.0.0.1:4173/portfolio-preview npm test
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-static-preview
+          path: out
+          include-hidden-files: true
